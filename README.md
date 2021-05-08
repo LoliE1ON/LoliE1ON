@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there! 
 
-My name is Loli and I'm a backend software engineer. I'm from Ukrain.
+My name is Loli and I'm a backend software engineer. I'm from Ukraine.
 
 ### 🔧 Technologies & Tools
 
