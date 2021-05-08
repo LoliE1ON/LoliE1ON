@@ -21,6 +21,4 @@ My name is Loli and I'm a backend software engineer. I'm from Ukrain.
 
 <br/>
 
-<p>
 ![Twitter Follow](https://img.shields.io/twitter/follow/loli_e1on?style=social)
-</p>
