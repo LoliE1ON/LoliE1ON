@@ -1,10 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/extremecodetv/extremecodetv/master/wave.gif" width="25px"> Hi there! 
 
-My name is Artem and I'm a backend software engineer. I'm from Russia, living in ❄Novosibirsk and currently working at startup [Slidepage](https://slide.page/?utm_source=github&utm_content=extremecode). 
-
-### 📺 Channel
-
-Apart from coding, I also maintain a YouTube channel - you can find my videos at [ExtremeCode](https://youtube.com/extremecode)
+My name is Loli and I'm a backend software engineer. I'm from Ukrain.
 
 ### 🔧 Technologies & Tools
 
@@ -17,8 +13,8 @@ Apart from coding, I also maintain a YouTube channel - you can find my videos at
 <p align="center">
   <table>
   <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=extremecodetv&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=extremecodetv&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=LoliE1ON&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoliE1ON&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
   </tr>   
 </table>
 </p>
