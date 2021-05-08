@@ -24,7 +24,7 @@ My name is Loli and I'm a backend software engineer. I'm from Ukraine.
 
 <a href="https://patreon.com/e1on"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3De1on%26type%3Dpatrons&style=for-the-badge" /></a>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/loli_e1on?style=social)
+<a href="https://twitter.com/loli_e1on"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 
 
