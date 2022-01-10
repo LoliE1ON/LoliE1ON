@@ -6,7 +6,7 @@ My name is Loli and I'm a backend software engineer. I'm from Ukraine.
 
 ![](https://img.shields.io/badge/OS-Arch%20Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazon&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Editor-Web%20Shtorm-informational?style=flat-square&logo=webs-storm&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Editor-Web%20Storm-informational?style=flat-square&logo=webs-storm&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
 
 ### 📈 GitHub Stats
