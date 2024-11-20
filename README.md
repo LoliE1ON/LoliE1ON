@@ -1,6 +1,13 @@
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoliE1ON&show_icons=true&theme=dark&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoliE1ON&layout=compact&theme=dark)
+# LOLI
+
+## 🔧 Skills and Tools:
+![Skills](https://skillicons.dev/icons?i=golang,ts,js,php,c#)
+
+![Skills](https://skillicons.dev/icons?i=nodejs,unity,blender)
+
+## 🌟 Highlights:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoliE1ON&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&count_private=true&hide=issues&disable_animations=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoliE1ON&layout=compact&theme=dark&langs_count=8&hide=html,css)
 
 <br/>
 
