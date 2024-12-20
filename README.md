@@ -1,4 +1,4 @@
-# LOLI
+# ʟᴏʟɪ
 Software engineer 
 <p>
   <a href="https://patreon.com/e1on">
