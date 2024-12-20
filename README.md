@@ -2,11 +2,63 @@
 Software engineer 
 
 ### 🛠️ Skills
-![Skills](https://skillicons.dev/icons?i=linux,nodejs,unity,blender,docker,git,aws,elasticsearch,postgresql,mongodb,mysql,redis,kafka,rabbitmq,nginx)
+<table align="center" style="border:none;">
+  <tr>
+    <td valign="top" width="50%">
+      <p><strong>Operating Systems, Cloud & DevOps</strong><br>
+      <img src="https://skillicons.dev/icons?i=linux,arch,aws,docker,githubactions" /></p>
+    </td>
+    <td valign="top" width="50%">
+      <p><strong>Version Control, Servers & Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=git,nginx,postman,sentry" /></p>
+    </td>
+  </tr>
 
-![Skills](https://skillicons.dev/icons?i=golang,cs,js,ts,php,html,css,bash)
+  <tr>
+    <td valign="top" width="50%">
+      <p><strong>Databases, Queues & Search Engines</strong><br>
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,sqlite,elasticsearch,kafka,rabbitmq" /></p>
+    </td>
+    <td valign="top" width="50%">
+      <p><strong>Programming & Scripting Languages</strong><br>
+      <img src="https://skillicons.dev/icons?i=golang,cs,js,ts,php,bash,wasm,html,css,sass" /></p>
+    </td>
+  </tr>
 
-![Skills](https://skillicons.dev/icons?i=vue,react,electron,nest,symfony,laravel)
+  <tr>
+    <td valign="top" width="50%">
+      <p><strong>Frontend & Fullstack Frameworks/Libraries</strong><br>
+      <img src="https://skillicons.dev/icons?i=vue,react,solidjs,svelte,materialui,redux,jquery,electron" /></p>
+    </td>
+    <td valign="top" width="50%">
+      <p><strong>Backend Frameworks</strong><br>
+      <img src="https://skillicons.dev/icons?i=nest,express,symfony,laravel" /></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+      <p><strong>Build & Testing Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=jest,cypress,webpack,rollupjs,vite,yarn" /></p>
+    </td>
+    <td valign="top" width="50%">
+      <p><strong>Game Development & 3D</strong><br>
+      <img src="https://skillicons.dev/icons?i=unity,blender" /></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="50%">
+      <p><strong>Additional</strong><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,discordjs" /></p>
+    </td>
+    <td valign="top" width="50%">
+    </td>
+  </tr>
+</table>
+
+
+
 
 ## 🌟 Highlights
 
