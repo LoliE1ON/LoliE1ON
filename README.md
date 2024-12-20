@@ -9,9 +9,6 @@ Software engineer
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/currently-online-green?style=flat-square" alt="currently online" /><img src="https://img.shields.io/badge/playing-nothing%20rn-blue?style=flat-square" alt="playing nothing rn" /><img src="https://img.shields.io/badge/coding-nothing%20rn-lightgrey?style=flat-square" alt="coding nothing rn" /><img src="https://img.shields.io/badge/listening%20to-nothing%20rn-brightgreen?style=flat-square" alt="listening to nothing rn" />
-
-
 ## 🛠️ Skills
 <table align="center" style="border:none;">
   <tr>
