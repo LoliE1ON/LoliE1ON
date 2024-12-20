@@ -72,6 +72,6 @@
 ## 🌟 Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LoliE1ON&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="500" align="left"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoliE1ON&layout=compact&theme=dark&langs_count=100" alt="Top Languages" width="300" align="right"/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LoliE1ON&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="500" align="left"/></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoliE1ON&layout=compact&theme=dark&langs_count=100" alt="Top Languages" width="300" align="right"/></a>
 </p>
