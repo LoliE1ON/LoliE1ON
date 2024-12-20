@@ -6,7 +6,7 @@ Software engineer
 
 ![Skills](https://skillicons.dev/icons?i=golang,cs,js,ts,php,html,css,bash)
 
-![Skills](https://skillicons.dev/icons?i=react,electron,nest,symfony,laravel)
+![Skills](https://skillicons.dev/icons?i=vue,react,electron,nest,symfony,laravel)
 
 ## 🌟 Highlights
 
