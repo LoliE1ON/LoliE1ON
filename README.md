@@ -9,56 +9,60 @@
   </a>
 </p>
 
+
 ## 🛠️ Skills
 <table align="center" style="border:none;">
   <tr>
     <td valign="top" width="50%">
       <p><strong>Operating Systems, Cloud & DevOps</strong><br>
-      <img src="https://skillicons.dev/icons?i=linux,arch,aws,docker,githubactions" /></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=linux,arch,aws,docker,githubactions" /></a></p>
     </td>
     <td valign="top" width="50%">
       <p><strong>Version Control, Servers & Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=git,nginx,postman,sentry" /></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=git,nginx,postman,sentry" /></a></p>
     </td>
   </tr>
 
   <tr>
     <td valign="top" width="50%">
       <p><strong>Databases, Queues & Search Engines</strong><br>
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,sqlite,elasticsearch,kafka,rabbitmq" /></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,sqlite,elasticsearch,kafka,rabbitmq" /></a></p>
     </td>
     <td valign="top" width="50%">
       <p><strong>Programming & Scripting Languages</strong><br>
-      <img src="https://skillicons.dev/icons?i=golang,cs,js,ts,php,bash,wasm,html,css,sass" /></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=golang,cs,js,ts,php,bash,wasm,html,css,sass" /></a></p>
     </td>
   </tr>
 
   <tr>
     <td valign="top" width="50%">
       <p><strong>Frontend & Fullstack Frameworks/Libraries</strong><br>
-      <img src="https://skillicons.dev/icons?i=vue,react,solidjs,svelte,materialui,redux,jquery,electron" /></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=vue,react,solidjs,svelte,materialui,redux,jquery,electron" /></a></p>
     </td>
     <td valign="top" width="50%">
       <p><strong>Backend Frameworks</strong><br>
-      <img src="https://skillicons.dev/icons?i=nest,express,symfony,laravel" /></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=nest,express,symfony,laravel" /><</a>/p>
     </td>
   </tr>
 
   <tr>
     <td valign="top" width="50%">
       <p><strong>Build & Testing Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=jest,cypress,webpack,rollupjs,vite,yarn" /></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=jest,cypress,webpack,rollupjs,vite,yarn" /></p>
     </td>
     <td valign="top" width="50%">
       <p><strong>Game Development & 3D</strong><br>
-      <img src="https://skillicons.dev/icons?i=unity,blender" /></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=unity,blender" /></a>
+      <a href="#"><img width="48" src="https://github.com/user-attachments/assets/1938d10c-49ce-498a-9a1c-e851cc6ddd7e"></a>
+      <a href="#"><img width="48" src="https://github.com/user-attachments/assets/ae9f3bb8-cd53-4318-9926-68353beed8b8"></a>
+      </p>
     </td>
   </tr>
 
   <tr>
     <td valign="top" width="50%">
       <p><strong>Additional</strong><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,discordjs" /></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,discordjs" /></a></p>
     </td>
     <td valign="top" width="50%">
     </td>
