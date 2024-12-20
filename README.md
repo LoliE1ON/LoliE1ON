@@ -41,7 +41,7 @@
     </td>
     <td valign="top" width="50%">
       <p><strong>Backend Frameworks</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=nest,express,symfony,laravel" /><</a>/p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=nest,express,symfony,laravel" /></a></p>
     </td>
   </tr>
 
