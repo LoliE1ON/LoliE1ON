@@ -1,5 +1,5 @@
 # ʟᴏʟɪ 
-<b>Software engineer. <a href="https://loli.okinawa" style="text-decoration: none;">https://loli.okinawa</a></b>
+<b>Software engineer.</b>
 <p>
   <a href="https://patreon.com/e1on">
     <img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3De1on%26type%3Dpatrons&style=for-the-badge" align="center" alt="Support me on Patreon" />
