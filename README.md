@@ -30,7 +30,7 @@
     </td>
     <td valign="top" width="50%">
       <p><strong>Programming & Scripting Languages</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=golang,cs,js,ts,php,bash,wasm,html,css,sass" /></a></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=golang,cs,nodejs,js,ts,php,bash,html,css,sass" /></a></p>
     </td>
   </tr>
 
@@ -56,15 +56,6 @@
       <a href="#"><img width="48" src="https://github.com/user-attachments/assets/1938d10c-49ce-498a-9a1c-e851cc6ddd7e"></a>
       <a href="#"><img width="48" src="https://github.com/user-attachments/assets/ae9f3bb8-cd53-4318-9926-68353beed8b8"></a>
       </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="50%">
-      <p><strong>Additional</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,discordjs" /></a></p>
-    </td>
-    <td valign="top" width="50%">
     </td>
   </tr>
 </table>
