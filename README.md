@@ -52,7 +52,7 @@
     </td>
     <td valign="top" width="50%">
       <p><strong>Game Development & 3D</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=unity,blender" /></a>
+      <a href="#"><img src="https://skillicons.dev/icons?i=unreal,unity,blender" /></a>
       <a href="#"><img width="48" src="https://github.com/user-attachments/assets/1938d10c-49ce-498a-9a1c-e851cc6ddd7e"></a>
       <a href="#"><img width="48" src="https://github.com/user-attachments/assets/ae9f3bb8-cd53-4318-9926-68353beed8b8"></a>
       </p>
