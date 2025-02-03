@@ -15,11 +15,14 @@
   <tr>
     <td valign="top" width="50%">
       <p><strong>Operating Systems, Cloud & DevOps</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=linux,arch,aws,docker,githubactions" /></a></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=linux,aws,docker,git,nginx" /></a></p>
     </td>
     <td valign="top" width="50%">
-      <p><strong>Version Control, Servers & Tools</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=git,nginx,postman,sentry" /></a></p>
+      <p><strong>Game Development & 3D</strong><br>
+      <a href="#"><img src="https://skillicons.dev/icons?i=unreal,unity,blender" /></a>
+      <a href="#"><img width="48" src="https://github.com/user-attachments/assets/1938d10c-49ce-498a-9a1c-e851cc6ddd7e"></a>
+      <a href="#"><img width="48" src="https://github.com/user-attachments/assets/ae9f3bb8-cd53-4318-9926-68353beed8b8"></a>
+      </p>
     </td>
   </tr>
 
@@ -30,32 +33,18 @@
     </td>
     <td valign="top" width="50%">
       <p><strong>Programming & Scripting Languages</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=golang,cpp,cs,nodejs,ts,php,bash,html,css,sass" /></a></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=golang,cpp,cs,nodejs,ts,php,githubactions" /></a></p>
     </td>
   </tr>
 
   <tr>
     <td valign="top" width="50%">
       <p><strong>Frontend & Fullstack Frameworks/Libraries</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=vue,react,solidjs,svelte,materialui,redux,jquery,electron" /></a></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=vue,react,solidjs,svelte,electron" /></a></p>
     </td>
     <td valign="top" width="50%">
       <p><strong>Backend Frameworks</strong><br>
       <a href="#"><img src="https://skillicons.dev/icons?i=nest,express,symfony,laravel" /></a></p>
-    </td>
-  </tr>
-
-  <tr>
-    <td valign="top" width="50%">
-      <p><strong>Build & Testing Tools</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=jest,cypress,webpack,rollupjs,vite,yarn" /></p>
-    </td>
-    <td valign="top" width="50%">
-      <p><strong>Game Development & 3D</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=unreal,unity,blender" /></a>
-      <a href="#"><img width="48" src="https://github.com/user-attachments/assets/1938d10c-49ce-498a-9a1c-e851cc6ddd7e"></a>
-      <a href="#"><img width="48" src="https://github.com/user-attachments/assets/ae9f3bb8-cd53-4318-9926-68353beed8b8"></a>
-      </p>
     </td>
   </tr>
 </table>
