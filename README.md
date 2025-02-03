@@ -14,7 +14,7 @@
 <table align="center" style="border:none;">
   <tr>
     <td valign="top" width="50%">
-      <p><strong>Operating Systems, Cloud & DevOps</strong><br>
+      <p><strong>Operating Systems</strong><br>
       <a href="#"><img src="https://skillicons.dev/icons?i=linux,aws,docker,git,nginx" /></a></p>
     </td>
     <td valign="top" width="50%">
@@ -32,19 +32,19 @@
       <a href="#"><img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis,sqlite,elasticsearch,kafka,rabbitmq" /></a></p>
     </td>
     <td valign="top" width="50%">
-      <p><strong>Programming & Scripting Languages</strong><br>
+      <p><strong>Programming</strong><br>
       <a href="#"><img src="https://skillicons.dev/icons?i=golang,cpp,cs,nodejs,ts,php,githubactions" /></a></p>
     </td>
   </tr>
 
   <tr>
     <td valign="top" width="50%">
-      <p><strong>Frontend & Fullstack Frameworks/Libraries</strong><br>
+      <p><strong>Frontend</strong><br>
       <a href="#"><img src="https://skillicons.dev/icons?i=vue,react,solidjs,svelte,electron" /></a></p>
     </td>
     <td valign="top" width="50%">
-      <p><strong>Backend Frameworks</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=nest,express,symfony,laravel" /></a></p>
+      <p><strong>Backend</strong><br>
+      <a href="#"><img src="https://skillicons.dev/icons?i=php,nodejs,nest,express,symfony,laravel" /></a></p>
     </td>
   </tr>
 </table>
