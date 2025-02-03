@@ -9,8 +9,6 @@
   </a>
 </p>
 
-
-## 🛠️ Skills
 <table align="center" style="border:none;">
   <tr>
     <td valign="top" width="50%">
@@ -48,8 +46,6 @@
     </td>
   </tr>
 </table>
-
-## 🌟 Highlights
 
 <p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LoliE1ON&show_icons=true&theme=dark&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="500" align="left"/></a>
