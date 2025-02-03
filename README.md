@@ -30,7 +30,7 @@
     </td>
     <td valign="top" width="50%">
       <p><strong>Programming & Scripting Languages</strong><br>
-      <a href="#"><img src="https://skillicons.dev/icons?i=golang,cs,nodejs,js,ts,php,bash,html,css,sass" /></a></p>
+      <a href="#"><img src="https://skillicons.dev/icons?i=golang,cpp,cs,nodejs,ts,php,bash,html,css,sass" /></a></p>
     </td>
   </tr>
 
